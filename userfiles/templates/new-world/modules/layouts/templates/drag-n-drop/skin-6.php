@@ -4,7 +4,7 @@
 
 type: layout
 
-name: Title with text
+name: Two text columns with icons and title
 
 position: 6
 

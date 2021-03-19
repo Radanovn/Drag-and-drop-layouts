@@ -4,7 +4,7 @@
 
 type: layout
 
-name: Title with text
+name: Imasge
 
 position: 8
 
