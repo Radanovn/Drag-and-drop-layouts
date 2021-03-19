@@ -6,7 +6,7 @@ type: layout
 
 name: Two text columns
 
-position: 2
+position: 3
 
 */
 
