@@ -48,7 +48,7 @@ $layout_classes = ' ' . $classes['padding_top'] . ' ' . $classes['padding_bottom
     <div class="col mw-default-layout-typography-6">
         <div class="element">
             <ul class="mw-default-layout-paragraph">
-                <li class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</li>
+                <li class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
                 <small class="text-muted">Someone famous in</small>
             </ul>
         </div>
