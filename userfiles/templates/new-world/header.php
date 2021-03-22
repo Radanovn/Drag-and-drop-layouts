@@ -24,12 +24,8 @@
         mw.lib.require('bootstrap_select');
 
         mw.iconLoader()
-            .addIconSet('fontAwesome')
-            .addIconSet('iconsMindLine')
-            .addIconSet('iconsMindSolid')
-            .addIconSet('materialDesignIcons')
-            .addIconSet('mwIcons')
-            .addIconSet('materialIcons');
+        .addIconSet('materialDesignIcons')
+
     </script>
 
     <script>
