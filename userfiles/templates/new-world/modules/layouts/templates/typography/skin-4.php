@@ -31,29 +31,20 @@ $layout_classes = ' ' . $classes['padding_top'] . ' ' . $classes['padding_bottom
 
     .mw-default-layout-typography-4 ul.mw-default-layout-un-ordered li:before {
         content: '\2022';
-        display: block;
-        font-weight: 900;
-        float: left;
-        margin-right: 5px;
         top: 0%;
         left: 0;
         position: absolute;
     }
 
-    .typography-4 ul.mw-default-layout-un-ordered li:after {
-        clear: both;
-        display: block;
-        content: '';
-    }
 </style>
 
 <section class="section <?php print $layout_classes; ?> edit" field="layout-typography-skin-4-<?php print $params['id'] ?>" rel="module">
     <div class="col mw-default-layout-typography-4">
         <div class="element">
             <ul class="mw-default-layout-un-ordered ml-2">
-                <li class="mb-3">Unordered list item 1</li>
-                <li class="mb-3">Unordered list item 2</li>
-                <li class="mb-3">Unordered list item 3</li>
+                <li class="mb-3">Unordered list with dots</li>
+                <li class="mb-3">Unordered list with dots</li>
+                <li class="mb-3">Unordered list with dots</li>
             </ul>
         </div>
     </div>

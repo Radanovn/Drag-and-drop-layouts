@@ -39,9 +39,9 @@ $layout_classes = ' ' . $classes['padding_top'] . ' ' . $classes['padding_bottom
     <div class="col mw-default-layout-typography-1">
         <div class="element" >
             <ol class="mw-default-layout-ordered mb-1 ml-2">
-                <li class="mb-3 ml-3">Ordered list item 1</li>
-                <li class="mb-3 ml-3">Ordered list item 2</li>
-                <li class="mb-3 ml-3">Ordered list item 3</li>
+                <li class="mb-3 ml-3">Ordered list item</li>
+                <li class="mb-3 ml-3">Ordered list item</li>
+                <li class="mb-3 ml-3">Ordered list item</li>
             </ol>
         </div>
     </div>

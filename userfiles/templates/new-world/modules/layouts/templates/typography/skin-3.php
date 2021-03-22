@@ -25,9 +25,7 @@ $layout_classes = ' ' . $classes['padding_top'] . ' ' . $classes['padding_bottom
 
 <style>
     .mw-default-layout-typography-3 p.mw-default-layout-highlight-line {
-
         border-left: 4px solid black;
-
     }
 
 </style>
@@ -36,7 +34,7 @@ $layout_classes = ' ' . $classes['padding_top'] . ' ' . $classes['padding_bottom
 <section class="section <?php print $layout_classes; ?> edit" field="layout-typography-skin-3-<?php print $params['id'] ?>" rel="module">
     <div class="col mw-default-layout-typography-3">
         <div class="element ml-3">
-            <p class="mw-default-layout-highlight-line pl-4">Highlighted text</p>
+            <p class="mw-default-layout-highlight-line pl-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
         </div>
     </div>
 </section>
