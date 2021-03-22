@@ -4,7 +4,7 @@
 
 type: layout
 
-name: Imasge
+name: Image
 
 position: 8
 
