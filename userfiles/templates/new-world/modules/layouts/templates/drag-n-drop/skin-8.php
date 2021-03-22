@@ -4,9 +4,9 @@
 
 type: layout
 
-name: Video
+name: Image
 
-position: 7
+position: 8
 
 */
 
@@ -24,11 +24,11 @@ $layout_classes = ' ' . $classes['padding_top'] . ' ' . $classes['padding_bottom
 ?>
 
 
-<section class="section <?php print $layout_classes; ?> edit safe-mode " field="layout-drag-n-drop-skin-7-<?php print $params['id'] ?>" rel="module">
+<section class="section <?php print $layout_classes; ?> edit safe-mode" field="layout-drag-n-drop-skin-8-<?php print $params['id'] ?>" rel="module">
     <div class="container">
         <div class="row d-flex justify-content-center text-center">
             <div class="col-md-6 col">
-                <img class="rounded-xl pb-4" src="<?php print template_url(); ?>assets/img/video_for_layouts.png" >
+                <img class="rounded-xl pb-4" src="<?php print template_url(); ?>assets/img/image-for-layouts.png" >
             </div>
         </div>
     </div>
