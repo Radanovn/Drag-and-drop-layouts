@@ -29,17 +29,7 @@ $layout_classes = ' ' . $classes['padding_top'] . ' ' . $classes['padding_bottom
         border: 1px solid rgba(51, 51, 51, 0.1);
         padding: 0.8em;}
 
-    .mw-default-layout-typography-5 pre.mw-default-layout-pre li {
-        position: relative;
-        padding-left: 20px;
-    }
 
-    .mw-default-layout-typography-5 pre.mw-default-layout-pre li:before {
-        content: '\002A';
-        top: 0%;
-        left: 0;
-        position: absolute;
-    }
 </style>
 
 <section class="section <?php print $layout_classes; ?> edit" field="layout-typography-skin-5-<?php print $params['id'] ?>" rel="module">

@@ -31,7 +31,7 @@ $layout_classes = ' ' . $classes['padding_top'] . ' ' . $classes['padding_bottom
 
     .mw-default-layout-typography-4 ul.mw-default-layout-un-ordered li:before {
         content: '\2022';
-        top: 0%;
+        top: 0;
         left: 0;
         position: absolute;
     }
